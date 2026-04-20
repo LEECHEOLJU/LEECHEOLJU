@@ -30,8 +30,17 @@
 ### 💼 Consulting & Services
 - **[Consulting] M365 Security Policy Design**
   - 기업 환경에 맞춘 Document Security(문서 보안) 및 Classification Policy(분류 정책) 설계 컨설팅 수행
-- **[Service] [AlterEgo (운영 중)](https://alterego.ai.kr/)**
-  - AI 기술을 접목한 맞춤형 심리 분석 웹 서비스 개발 및 운영
+    
+### 🌟 [Live Service] AlterEgo (AI 심리 분석 플랫폼)
+> **"AI 기술을 통해 자아의 이면을 들여다보는 새로운 경험"**
+- **Status:** 🟢 **Operating Live** at [**alterego.ai.kr**](https://alterego.ai.kr/)
+- **Tech:** Azure OpenAI, Supabase, Cloudflare, Next.js
+- **Description:** 사용자 응답 데이터를 AI가 실시간으로 분석하여 심층적인 자아 성향 및 심리 지표를 제공하는 웹 서비스를 설계하고 직접 운영 중입니다. 실제 유저 피드백을 바탕으로 지속적인 모델 튜닝과 UI/UX 개선을 진행하고 있습니다.
+<p align="left">
+  <a href="https://alterego.ai.kr/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-alterego.ai.kr-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ## 🛠️ Tech Stack & Infrastructure
 > **Security & Cloud Infrastructure**
