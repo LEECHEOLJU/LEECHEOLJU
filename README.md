@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEECHEOLJU&layout=compact&theme=radical&hide_border=true" width="100%"></td>
-      <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=LEECHEOLJU&theme=radical&column=3&margin-w=15" width="100%"></td>
+      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LEECHEOLJU&theme=radical&hide_border=true" width="100%"></td>
     </tr>
   </table>
 </div>
@@ -44,7 +44,7 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="mailto:dlcjfwn5173@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://blog.naver.com/cjfwn5173" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+  <a href="https://blog.naver.com/cjfwn5173" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 </p>
 
 ---
