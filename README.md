@@ -26,3 +26,17 @@
 
 ---
 *"보안은 기술이 아니라 습관입니다."* ```
+
+## 🏆 My GitHub Trophies
+[!["GitHub Trophy"](https://github-profile-trophy.vercel.app/?username=LEECHEOLJU&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🛠️ Infrastructure & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,linux,docker,cloudflare,githubactions,py,fastapi" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEECHEOLJU&count_bg=%233670A0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false" />
+</p>
