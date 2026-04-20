@@ -3,20 +3,35 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;AI+Security+Ops+Platform+Developer;Building+MetaWatch+System;KQL+and+Automation+Expert">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Cloud+Security+Engineer;Security+Consulting+%26+Pre-Sales;AI+Security+Platform+Developer;Azure+%26+AWS+Security+Expert">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Monitoring-success?style=for-the-badge&logo=microsoftsentinel">
-  <img src="https://img.shields.io/badge/Detection-Rules%20Active-blue?style=for-the-badge&logo=kusto">
-  <img src="https://img.shields.io/badge/AI%20Defense-MetaWatch-orange?style=for-the-badge">
+## 🧑‍💻 About Me
+> **Cloud Security Engineer & Architect** <br>
+> Azure 및 AWS 클라우드 환경에 대한 깊은 이해를 바탕으로 **보안 컨설팅, 시스템 구축, Pre-Sales** 등 전방위적인 보안 라이프사이클을 수행합니다. 특히 AI 기술을 활용하여 SIEM 데이터를 가공하고 관제 효율을 극대화하는 플랫폼(MetaWatch) 개발 및 보안 자동화에 강점이 있습니다.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Security%20Specialty-FF9F19?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 </p>
 
-## 🚀 Key Projects & Consulting
-- 🛡️ **MetaWatch**: AI 기반 보안 관제 플랫폼 개발 (Main Project)
-- 📄 **M365 Security Consulting**: Document Security & Classification Policy Design
-- 🎭 **AlterEgo**: AI-driven entertainment platform
-- 🔍 **Cloud Security**: Sentinel & KQL detection rule automation
+## 🚀 Key Projects & Operations
+
+### 🛡️ Core Security & AI Platforms
+- **[MetaWatch] AI 기반 차세대 보안 관제 플랫폼 개발 (Main Project)**
+  - SIEM(Microsoft Sentinel 등)의 방대한 보안 데이터를 정제하여 **고위험 이벤트를 우선적으로 시각화하는 대시보드** 구현
+  - AI 모델을 연동하여 심층적인 **보안 위협 분석 및 자동 레포팅** 기능 제공
+- **[Azure Security] 이상 징후 탐지 체계 및 자동화 파이프라인 구축**
+  - Microsoft Sentinel 기반 클라우드 인프라 위협 탐지(Detection Rule) 체계 설계
+  - **Security Copilot**을 활용한 보안 분석 및 대응 자동화 파이프라인 개발
+
+### 💼 Consulting & Services
+- **[Consulting] M365 Security Policy Design**
+  - 기업 환경에 맞춘 Document Security(문서 보안) 및 Classification Policy(분류 정책) 설계 컨설팅 수행
+- **[Service] [AlterEgo (운영 중)](https://alterego.ai.kr/)**
+  - AI 기술을 접목한 맞춤형 심리 분석 웹 서비스 개발 및 운영
 
 ## 🛠️ Tech Stack & Infrastructure
 > **Security & Cloud Infrastructure**
