@@ -86,45 +86,6 @@
   </a>
 </p>
 
-## Security Delivery Flow
-
-```mermaid
-flowchart LR
-    A[Cloud Logs / SIEM Events] --> B[Detection Rules]
-    B --> C[AI Enrichment]
-    C --> D[Risk Prioritization]
-    D --> E[Dashboard Visibility]
-    E --> F[Automated Reporting]
-```
-
-## Tech Stack & Infrastructure
-> **Security & Cloud Infrastructure**
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,cloudflare,githubactions,py,fastapi,supabase,postgres,nextjs,ts" alt="Tech stack icons" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-5B5FC7?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel" />
-  <img src="https://img.shields.io/badge/Security%20Copilot-2563EB?style=flat-square&logo=microsoft&logoColor=white" alt="Security Copilot" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-F97316?style=flat-square&logo=elastic&logoColor=white" alt="Threat Detection" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-111827?style=flat-square&logo=icloud&logoColor=white" alt="Cloud Security" />
-  <img src="https://img.shields.io/badge/Pre--Sales%20Architecture-334155?style=flat-square&logo=googlecloud&logoColor=white" alt="Pre-Sales Architecture" />
-</p>
-
-<details>
-  <summary><b>Detailed Focus Areas</b></summary>
-  <br>
-
-  - Cloud security architecture and control design
-  - Detection rule engineering and alert quality tuning
-  - AI-assisted incident analysis and reporting automation
-  - Security consulting, technical design, and pre-sales enablement
-</details>
-
 ## Security Metrics & Activity
 <div align="center">
   <table>
